@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HydroNetIPPhoneBook>
+	<Title>HydroNet</Title>
+	<Menu Name="Internal">
+		<Unit Name="Ed Carbon" default_photo="Resource:icon_family_b.png" Phone3="" Phone2="" Phone1="006"/>
+	</Menu>
+</HydroNetIPPhoneBook>
