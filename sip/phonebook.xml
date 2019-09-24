@@ -1,25 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xxxIPPhoneDirectory clearlight="true">
-<Title>Phonelist</Title>
-<Prompt>Prompt</Prompt>
-<DirectoryEntry>
-<Name>Support</Name>
-<Telephone>8881234567</Telephone>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Sales</Name>
-<Telephone>8887654321</Telephone>
-</DirectoryEntry>
-<DirectoryEntry>
-<Name>Billing</Name>
-<Telephone>8881231231</Telephone>
-</DirectoryEntry>
-<SoftKeyItem>
-<Name>#</Name>
-<URL>http://xxx/minibrowser/start.xml</URL>
-</SoftKeyItem>
-<SoftKeyItem>
-<Name>*</Name>
-<URL>http://xxx/minibrowser/menu.xml</URL>
-</SoftKeyItem>
-</xxxIPPhoneDirectory>
+<?xml version="1.0" encoding="UTF-8"?>
+<ecalIPPhoneBook>
+	<Title>ecal directory</Title>
+	<Menu Name="Internal">
+		<Unit Name="Carbon" Phone3="" Phone2="" Phone1="006"/>
+		<Unit Name="Titanium" Phone3="" Phone2="" Phone1="022"/>
+		<Unit Name="Silver" Phone3="" Phone2="" Phone1="047"/>
+		<Unit Name="Antimony" Phone3="" Phone2="" Phone1="051"/>
+		<Unit Name="Tellurim" Phone3="" Phone2="" Phone1="052"/>
+		<Unit Name="BSR studio" Phone3="" Phone2="" Phone1="321"/>
+		<Unit Name="Edward hunt" Phone3="" Phone2="" Phone1="501"/>
+		<Unit Name="Footloose duty hunt" Phone3="" Phone2="" Phone1="503"/>
+		<Unit Name="Footloose menu" Phone3="" Phone2="" Phone1="701"/>
+		<Unit Name="BSR menu" Phone3="" Phone2="" Phone1="702"/>
+	</Menu>
+	<Menu Name="Forwarding">
+		<Unit Name="Edward forward" Phone3="" Phone2="" Phone1="101"/>
+		<Unit Name="Orchardside forward" Phone3="" Phone2="" Phone1="111"/>
+		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="200"/>
+		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="201"/>
+		<Unit Name="Lucy Mewis-McKerrow" Phone3="" Phone2="" Phone1="202"/>
+	</Menu>
+	<Menu Name="Services">
+		<Unit Name="Police non-emergency" Phone3="" Phone2="" Phone1="101"/>
+		<Unit Name="Power cut non-emergency" Phone3="" Phone2="" Phone1="105"/>
+		<Unit Name="NHS non-emergency" Phone3="" Phone2="" Phone1="111"/>
+		<Unit Name="Music queue" Phone3="" Phone2="" Phone1="603"/>
+		<Unit Name="Anti-terrorist hotline" Phone3="" Phone2="" Phone1="666"/>
+		<Unit Name="Speaking clock" Phone3="" Phone2="" Phone1="846"/>
+		<Unit Name="Emergency services" Phone3="" Phone2="" Phone1="999"/>
+	</Menu>
+</ecalIPPhoneBook>
