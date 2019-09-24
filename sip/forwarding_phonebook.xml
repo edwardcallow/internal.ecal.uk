@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ecalForwardingIPPhoneDirectory>
 	<DirectoryEntry>
-		<Name>Not in use</Name>
-		<Telephone>000</Telephone>
+		<Name>Edward</Name>
+		<Telephone>401</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Orchardside</Name>
+		<Telephone>402</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ben Dixon</Name>
+		<Telephone>403</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>James Baber</Name>
+		<Telephone>404</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Lucy Mewis-McKerrow</Name>
+		<Telephone>405</Telephone>
 	</DirectoryEntry>
 </ecalForwardingIPPhoneDirectory>
