@@ -14,8 +14,8 @@
 		<Unit Name="BSR menu" Phone3="" Phone2="" Phone1="702"/>
 	</Menu>
 	<Menu Name="Forwarding">
-		<Unit Name="Edward forward" Phone3="" Phone2="" Phone1="101"/>
-		<Unit Name="Orchardside forward" Phone3="" Phone2="" Phone1="111"/>
+		<Unit Name="Edward" Phone3="" Phone2="" Phone1="101"/>
+		<Unit Name="Orchardside" Phone3="" Phone2="" Phone1="111"/>
 		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="200"/>
 		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="201"/>
 		<Unit Name="Lucy Mewis-McKerrow" Phone3="" Phone2="" Phone1="202"/>
