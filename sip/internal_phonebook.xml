@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecalInternalIPPhoneDirectory>
+	<DirectoryEntry>
+		<Name>Carbon</Name>
+		<Telephone>006</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Titanium</Name>
+		<Telephone>022</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Silver</Name>
+		<Telephone>047</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Antimony</Name>
+		<Telephone>051</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Tellurim</Name>
+		<Telephone>052</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>BSR studio</Name>
+		<Telephone>321</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Edward hunt</Name>
+		<Telephone>501</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Footloose duty hunt</Name>
+		<Telephone>503</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Footloose menu</Name>
+		<Telephone>701</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>BSR menu</Name>
+		<Telephone>702</Telephone>
+	</DirectoryEntry>
+</ecalInternalIPPhoneDirectory>

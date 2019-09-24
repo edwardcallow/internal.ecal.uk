@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ecalIPPhoneDirectory>
+<ecalForwardingIPPhoneDirectory>
 	<DirectoryEntry>
 		<Name>Not in use</Name>
 		<Telephone>000</Telephone>
 	</DirectoryEntry>
-</ecalIPPhoneDirectory>
+</ecalForwardingIPPhoneDirectory>

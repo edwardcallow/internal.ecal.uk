@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ecalIPPhoneBook>
+<ecalCombinedIPPhoneBook>
 	<Title>ecal directory</Title>
 	<Menu Name="Internal">
 		<Unit Name="Carbon" Phone3="" Phone2="" Phone1="006"/>
@@ -16,17 +16,17 @@
 	<Menu Name="Forwarding">
 		<Unit Name="Edward" Phone3="" Phone2="" Phone1="401"/>
 		<Unit Name="Orchardside" Phone3="" Phone2="" Phone1="402"/>
-		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="403"/>
-		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="404"/>
+		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="403"/>
+		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="404"/>
 		<Unit Name="Lucy Mewis-McKerrow" Phone3="" Phone2="" Phone1="405"/>
 	</Menu>
 	<Menu Name="Services">
 		<Unit Name="Police non-emergency" Phone3="" Phone2="" Phone1="101"/>
 		<Unit Name="Power cut non-emergency" Phone3="" Phone2="" Phone1="105"/>
 		<Unit Name="NHS non-emergency" Phone3="" Phone2="" Phone1="111"/>
-		<Unit Name="Music" Phone3="" Phone2="" Phone1="603"/>
+		<Unit Name="Music line" Phone3="" Phone2="" Phone1="603"/>
 		<Unit Name="Anti-terrorist hotline" Phone3="" Phone2="" Phone1="666"/>
 		<Unit Name="Speaking clock" Phone3="" Phone2="" Phone1="846"/>
 		<Unit Name="Emergency services" Phone3="" Phone2="" Phone1="999"/>
 	</Menu>
-</ecalIPPhoneBook>
+</ecalCombinedIPPhoneBook>
