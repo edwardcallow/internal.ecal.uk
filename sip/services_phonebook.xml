@@ -13,8 +13,12 @@
 		<Telephone>111</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>BBC emergency information</Name>
+		<Name>BBC emergency info</Name>
 		<Telephone>159</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Gas emergency</Name>
+		<Telephone>427</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Music line</Name>
