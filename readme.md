@@ -1,3 +1,3 @@
 # internal.ecal.uk
 
-ecal.uk internal resources.
+ecal.uk internal services.
