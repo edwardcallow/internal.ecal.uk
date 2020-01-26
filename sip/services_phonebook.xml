@@ -17,6 +17,10 @@
 		<Telephone>159</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>Conference call</Name>
+		<Telephone>266</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>Gas emergency</Name>
 		<Telephone>427</Telephone>
 	</DirectoryEntry>
@@ -27,6 +31,10 @@
 	<DirectoryEntry>
 		<Name>Anti-terrorist hotline</Name>
 		<Telephone>666</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Switchboard</Name>
+		<Telephone>701</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Speaking clock</Name>

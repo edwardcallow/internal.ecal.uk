@@ -33,11 +33,15 @@
 		<Telephone>503</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Footloose menu</Name>
+		<Name>Switchboard</Name>
 		<Telephone>701</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>Footloose menu</Name>
+		<Telephone>703</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>BSR menu</Name>
-		<Telephone>702</Telephone>
+		<Telephone>704</Telephone>
 	</DirectoryEntry>
 </ecalInternalIPPhoneDirectory>
