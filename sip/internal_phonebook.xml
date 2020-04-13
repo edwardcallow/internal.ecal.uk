@@ -17,12 +17,12 @@
 		<Telephone>051</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Iodine</Name>
-		<Telephone>054</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
 		<Name>Tellurim</Name>
 		<Telephone>052</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Iodine</Name>
+	<Telephone>053</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>BSR studio</Name>
