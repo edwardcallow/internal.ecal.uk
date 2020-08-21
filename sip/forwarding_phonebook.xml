@@ -80,4 +80,8 @@
 		<Name>Car</Name>
 		<Telephone>420</Telephone>
 	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Nickel</Name>
+		<Telephone>421</Telephone>
+	</DirectoryEntry>
 </ecalForwardingIPPhoneDirectory>
