@@ -17,6 +17,10 @@
 		<Telephone>119</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>Speaking clock</Name>
+		<Telephone>123</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>BBC emergency info</Name>
 		<Telephone>159</Telephone>
 	</DirectoryEntry>
@@ -39,10 +43,6 @@
 	<DirectoryEntry>
 		<Name>Switchboard</Name>
 		<Telephone>701</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
-		<Name>Speaking clock</Name>
-		<Telephone>846</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Emergency services</Name>
