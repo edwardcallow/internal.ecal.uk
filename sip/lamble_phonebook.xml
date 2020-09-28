@@ -45,6 +45,10 @@
 		<Telephone>501</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>All call</Name>
+		<Telephone>504</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>Music line</Name>
 		<Telephone>603</Telephone>
 	</DirectoryEntry>
