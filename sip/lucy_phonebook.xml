@@ -9,6 +9,10 @@
 		<Telephone>105</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>Conference phone</Name>
+	<Telephone>067</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>NHS non-emergency</Name>
 		<Telephone>111</Telephone>
 	</DirectoryEntry>
@@ -38,7 +42,7 @@
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Lucy mobile</Name>
-		<Telephone>401</Telephone>
+		<Telephone>405</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Central</Name>
@@ -61,7 +65,7 @@
 		<Telephone>427</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Edward</Name>
+		<Name>Edward Callow</Name>
 		<Telephone>501</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
