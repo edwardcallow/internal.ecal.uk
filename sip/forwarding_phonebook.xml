@@ -81,7 +81,7 @@
 		<Telephone>420</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Nickel mobex</Name>
+		<Name>Tesco mobex</Name>
 		<Telephone>421</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -91,5 +91,9 @@
 	<DirectoryEntry>
 		<Name>Downing Street</Name>
 		<Telephone>423</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Central extension</Name>
+		<Telephone>424</Telephone>
 	</DirectoryEntry>
 </ecalForwardingIPPhoneDirectory>
