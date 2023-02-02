@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <YealinkIPPhoneTextMenu defaultIndex=""  style="numbered" beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
+
+<Title wrap="yes" >Change queue status</Title>
+<MenuItem>
+<Prompt>Log in to queue</Prompt>
+<URI>https://internal.ecal.uk/sip/status/qlogin.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Log out of queue</Prompt>
+<URI>https://internal.ecal.uk/sip/status/qlogout.xml</URI> 
+</MenuItem>
+</YealinkIPPhoneTextMenu> 

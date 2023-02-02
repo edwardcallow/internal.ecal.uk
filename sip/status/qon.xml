@@ -2,7 +2,7 @@
     Beep="no" > 
     <Path config="LineKey"> 
     <Item>linekey3.DKtype=XMLBrowser</Item> 
-    <Item>linekey3.Label=In Q</Item> 
+    <Item>linekey3.Label=Logged in</Item> 
     <Item>linekey3.Line=1</Item> 
     <Item>linekey3.Value=https://internal.ecal.uk/sip/status/dndstatus.xml</Item> 
     
