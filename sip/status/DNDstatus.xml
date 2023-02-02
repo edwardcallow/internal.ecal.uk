@@ -24,10 +24,10 @@
 </MenuItem>
 <MenuItem>
 <Prompt>Login To Queue</Prompt>
-<URI>https://internal.ecal.uk/sip/status/Qlogin.xml</URI> 
+<URI>https://internal.ecal.uk/sip/status/qlogin.xml</URI> 
 </MenuItem>
 <MenuItem>
 <Prompt>Log out of Queue</Prompt>
-<URI>https://internal.ecal.uk/sip/status/Qlogout.xml</URI> 
+<URI>https://internal.ecal.uk/sip/status/qlogout.xml</URI> 
 </MenuItem>
 </YealinkIPPhoneTextMenu> 
