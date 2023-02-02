@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <YealinkIPPhoneTextMenu defaultIndex=""  style="numbered" beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
+
+<Title wrap="yes" >Change Availability Status</Title>
+<MenuItem>
+<Prompt>Set Status to Available</Prompt>
+<URI>https://internal.ecal.uk/sip/status/dndavailable.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Set Status to Away</Prompt>
+<URI>https://internal.ecal.uk/sip/status/dndaway.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Do Not Disturb</Prompt>
+<URI>https://internal.ecal.uk/sip/status/dndoutofoffice.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Set Status to In A Meeting</Prompt>
+<URI>https://internal.ecal.uk/sip/status/dndavailable2.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Set Status to On Site</Prompt>
+<URI>https://internal.ecal.uk/sip/status/dndOutofoffice2.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Login To Queue</Prompt>
+<URI>https://internal.ecal.uk/sip/status/qlogin.xml</URI> 
+</MenuItem>
+<MenuItem>
+<Prompt>Log out of Queue</Prompt>
+<URI>https://internal.ecal.uk/sip/status/qlogout.xml</URI> 
+</MenuItem>
+</YealinkIPPhoneTextMenu> 

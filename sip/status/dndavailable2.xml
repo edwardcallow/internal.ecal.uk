@@ -1,0 +1,9 @@
+<YealinkIPPhoneExecute Beep="no"> 
+
+<ExecuteItem URI="https://internal.ecal.uk/sip/status/dndmeeting.xml"/> 
+
+<ExecuteItem URI="Dial:*33" interrupetCall="no"/>
+
+
+
+</YealinkIPPhoneExecute> 
