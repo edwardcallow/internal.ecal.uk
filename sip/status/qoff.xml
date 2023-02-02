@@ -4,7 +4,7 @@
     <Item>linekey3.DKtype=XMLBrowser</Item> 
     <Item>linekey3.Label=Logged out</Item> 
     <Item>linekey3.Line=1</Item> 
-    <Item>linekey3.Value=https://internal.ecal.uk/sip/status/dndstatus.xml</Item> 
+    <Item>linekey3.Value=https://internal.ecal.uk/sip/status/queue.xml</Item> 
     
   </Path> 
  
