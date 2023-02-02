@@ -1,7 +1,0 @@
-<YealinkIPPhoneExecute Beep="no"> 
-
-<ExecuteItem URI="https://internal.ecal.uk/sip/status/qon.xml"/> 
-<ExecuteItem URI="Key:HANDFREE" /> 
-<ExecuteItem URI="Dial:*96" interrupetCall="no"/> 
-
-</YealinkIPPhoneExecute> 
