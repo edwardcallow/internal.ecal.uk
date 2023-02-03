@@ -1,6 +1,0 @@
-<YealinkIPPhoneExecute Beep="no"> 
-
-<ExecuteItem URI="https://internal.ecal.uk/sip/status/dndon.xml"/> 
-<ExecuteItem URI="Dial:*30" interrupetCall="no"/> 
-
-</YealinkIPPhoneExecute> 
