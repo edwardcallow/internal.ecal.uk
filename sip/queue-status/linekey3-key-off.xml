@@ -4,6 +4,6 @@
     <Item>linekey3.DKtype=XMLBrowser</Item> 
     <Item>linekey3.Label=Off :-(</Item> 
     <Item>linekey3.Line=1</Item> 
-    <Item>linekey3.Value=https://internal.ecal.uk/sip/status/queue-menu.xml</Item> 
+    <Item>linekey3.Value=https://internal.ecal.uk/sip/queue-status/linekey3-menu.xml</Item> 
   </Path> 
 </YealinkIPPhoneConfiguration> 

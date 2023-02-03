@@ -4,10 +4,10 @@
 <Title wrap="yes" >Change Queue Status</Title>
 <MenuItem>
 <Prompt>Log in to receive calls</Prompt>
-<URI>https://internal.ecal.uk/sip/status/queue-login.xml</URI> 
+<URI>https://internal.ecal.uk/sip/queue-status/linekey3-login.xml</URI> 
 </MenuItem>
 <MenuItem>
 <Prompt>Log off to stop calls</Prompt>
-<URI>https://internal.ecal.uk/sip/status/queue-logoff.xml</URI> 
+<URI>https://internal.ecal.uk/sip/queue-status/linekey3-logoff.xml</URI> 
 </MenuItem>
 </YealinkIPPhoneTextMenu> 
