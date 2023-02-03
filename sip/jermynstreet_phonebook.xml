@@ -10,8 +10,6 @@
 		<Unit Name="Senior managers" Phone3="" Phone2="" Phone1="503"/>
 		<Unit Name="Technical team" Phone3="" Phone2="" Phone1="504"/>
 		<Unit Name="First aid" Phone3="" Phone2="" Phone1="555"/>
-		<Unit Name="Footloose menu" Phone3="" Phone2="" Phone1="701"/>
-		<Unit Name="BSR menu" Phone3="" Phone2="" Phone1="702"/>
 	</Menu>
 	<Menu Name="External">
 		<Unit Name="Edward" Phone3="" Phone2="07790171041" Phone1=""/>
