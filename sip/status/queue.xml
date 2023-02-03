@@ -7,7 +7,7 @@
 <URI>https://internal.ecal.uk/sip/status/qlogin.xml</URI> 
 </MenuItem>
 <MenuItem>
-<Prompt>Log out of queue</Prompt>
+<Prompt>Log off from queue</Prompt>
 <URI>https://internal.ecal.uk/sip/status/qlogout.xml</URI> 
 </MenuItem>
 </YealinkIPPhoneTextMenu> 
