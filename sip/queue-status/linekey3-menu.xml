@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
- <YealinkIPPhoneTextMenu defaultIndex="" destroyOnExit="yes" style="numbered" beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
+ <YealinkIPPhoneTextMenu defaultIndex="1" destroyOnExit="yes" style="numbered" Beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
 
 <Title wrap="yes" >Change Queue Status</Title>
 <MenuItem>
