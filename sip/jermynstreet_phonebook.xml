@@ -1,31 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ecalCombinedIPPhoneBook>
-	<Title>ecal directory</Title>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<JermynStreetTheatreIPPhoneBook>
+	<Title>Jermyn Street Theatre directory</Title>
 	<Menu Name="Internal">
-		<Unit Name="Carbon" Phone3="" Phone2="" Phone1="006"/>
-		<Unit Name="Titanium" Phone3="" Phone2="" Phone1="022"/>
-		<Unit Name="Silver" Phone3="" Phone2="" Phone1="047"/>
-		<Unit Name="Antimony" Phone3="" Phone2="" Phone1="051"/>
-		<Unit Name="Tellurim" Phone3="" Phone2="" Phone1="052"/>
-		<Unit Name="BSR studio" Phone3="" Phone2="" Phone1="321"/>
-		<Unit Name="Edward hunt" Phone3="" Phone2="" Phone1="501"/>
-		<Unit Name="Footloose duty hunt" Phone3="" Phone2="" Phone1="503"/>
+		<Unit Name="Admin" Phone3="" Phone2="" Phone1="201"/>
+		<Unit Name="Front of house" Phone3="" Phone2="" Phone1="202"/>
+		<Unit Name="Box office" Phone3="" Phone2="" Phone1="203"/>
+		<Unit Name="Penny Horner" Phone3="" Phone2="" Phone1="301"/>
+		<Unit Name="Front of house team" Phone3="" Phone2="" Phone1="502"/>
+		<Unit Name="Senior managers" Phone3="" Phone2="" Phone1="503"/>
+		<Unit Name="Technical team" Phone3="" Phone2="" Phone1="504"/>
+		<Unit Name="First aid" Phone3="" Phone2="" Phone1="555"/>
 		<Unit Name="Footloose menu" Phone3="" Phone2="" Phone1="701"/>
 		<Unit Name="BSR menu" Phone3="" Phone2="" Phone1="702"/>
 	</Menu>
-	<Menu Name="Forwarding">
-		<Unit Name="Edward" Phone3="" Phone2="" Phone1="401"/>
-		<Unit Name="Orchardside" Phone3="" Phone2="" Phone1="402"/>
-		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="403"/>
-		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="404"/>
-		<Unit Name="Lucy Mewis-McKerrow" Phone3="" Phone2="" Phone1="405"/>
+	<Menu Name="External">
+		<Unit Name="Edward" Phone3="" Phone2="07790171041" Phone1=""/>
 	</Menu>
 	<Menu Name="Services">
 		<Unit Name="Police non-emergency" Phone3="" Phone2="" Phone1="101"/>
 		<Unit Name="Power cut non-emergency" Phone3="" Phone2="" Phone1="105"/>
 		<Unit Name="NHS non-emergency" Phone3="" Phone2="" Phone1="111"/>
-		<Unit Name="Music line" Phone3="" Phone2="" Phone1="603"/>
-		<Unit Name="Anti-terrorist hotline" Phone3="" Phone2="" Phone1="666"/>
 		<Unit Name="Speaking clock" Phone3="" Phone2="" Phone1="846"/>
 		<Unit Name="Emergency services" Phone3="" Phone2="" Phone1="999"/>
 	</Menu>
