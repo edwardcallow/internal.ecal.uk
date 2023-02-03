@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<JermynStreetTheatreIDIPPhoneDirectory>
+	<DirectoryEntry>
+		<Name>Logging in</Name>
+		<Telephone>*96</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Logging off</Name>
+		<Telephone>*98</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Voice Mail</Name>
+		<Telephone>*95</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Emergency services</Name>
+		<Telephone>999</Telephone>
+		<Telephone>112</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Police non-emergency</Name>
+		<Telephone>101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>NHS non-emergency</Name>
+		<Telephone>111</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Power cut non-emergency</Name>
+		<Telephone>105</Telephone>
+	</DirectoryEntry>
+</JermynStreetTheatreIDIPPhoneDirectory>
