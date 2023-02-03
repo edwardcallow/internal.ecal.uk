@@ -1,9 +1,9 @@
-<YealinkIPPhoneConfiguration   
-    Beep="no" > 
-    <Path config="LineKey"> 
-    <Item>linekey3.DKtype=XMLBrowser</Item> 
-    <Item>linekey3.Label=Off :-(</Item> 
-    <Item>linekey3.Line=1</Item> 
-    <Item>linekey3.Value=https://internal.ecal.uk/sip/queue-status/linekey3-menu.xml</Item> 
-  </Path> 
-</YealinkIPPhoneConfiguration> 
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneConfiguration Beep="no">
+	<Path config="LineKey">
+		<Item>linekey3.DKtype=XMLBrowser</Item>
+		<Item>linekey3.Label=Q Off</Item>
+		<Item>linekey3.Line=1</Item>
+		<Item>linekey3.Value=https://internal.ecal.uk/sip/queue-status/linekey3-menu.xml</Item>
+	</Path>
+</YealinkIPPhoneConfiguration>

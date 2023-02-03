@@ -1,5 +1,6 @@
-<YealinkIPPhoneExecute Beep="no"> 
-<ExecuteItem URI="https://internal.ecal.uk/sip/queue-status/linekey3-key-off.xml"/> 
-<ExecuteItem URI="Dial:*98" interrupetCall="no"/> 
-<ExecuteItem URI="Led:LINE3_RED=on"/> 
-</YealinkIPPhoneExecute> 
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneExecute Beep="no">
+	<ExecuteItem URI="https://internal.ecal.uk/sip/queue-status/linekey3-key-off.xml"/>
+	<ExecuteItem URI="Dial:*98" interrupetCall="no"/>
+	<ExecuteItem URI="Led:LINE3_RED=on"/>
+</YealinkIPPhoneExecute>

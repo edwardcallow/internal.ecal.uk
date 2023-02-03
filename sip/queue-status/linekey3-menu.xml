@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
- <YealinkIPPhoneTextMenu defaultIndex="1" destroyOnExit="yes" style="numbered" Beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
-
-<Title wrap="no" >Change the Queue Status</Title>
-<MenuItem>
-<Prompt>Log in to receive calls</Prompt>
-<URI>https://internal.ecal.uk/sip/queue-status/linekey3-login.xml</URI> 
-</MenuItem>
-<MenuItem>
-<Prompt>Log off to stop calls</Prompt>
-<URI>https://internal.ecal.uk/sip/queue-status/linekey3-logoff.xml</URI> 
-</MenuItem>
-</YealinkIPPhoneTextMenu> 
+<YealinkIPPhoneTextMenu defaultIndex="1" destroyOnExit="yes" style="numbered" Beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
+	<Title wrap="yes" >Change Your Queue Status</Title>
+	<MenuItem>
+		<Prompt>Log in to receive calls</Prompt>
+		<URI>https://internal.ecal.uk/sip/queue-status/linekey3-login.xml</URI>
+	</MenuItem>
+	<MenuItem>
+		<Prompt>Log off to stop calls</Prompt>
+		<URI>https://internal.ecal.uk/sip/queue-status/linekey3-logoff.xml</URI>
+	</MenuItem>
+</YealinkIPPhoneTextMenu>
