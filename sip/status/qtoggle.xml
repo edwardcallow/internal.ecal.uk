@@ -1,0 +1,3 @@
+<YealinkIPPhoneExecute Beep="yes"> 
+<ExecuteItem URI="Dial:*97" interrupetCall="no"/> 
+</YealinkIPPhoneExecute> 

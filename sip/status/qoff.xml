@@ -5,7 +5,5 @@
     <Item>linekey3.Label=Out</Item> 
     <Item>linekey3.Line=1</Item> 
     <Item>linekey3.Value=https://internal.ecal.uk/sip/status/queue.xml</Item> 
-    
   </Path> 
- 
 </YealinkIPPhoneConfiguration> 
