@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
  <YealinkIPPhoneTextMenu defaultIndex="1" destroyOnExit="yes" style="numbered" Beep="no" cancelAction="" wrapList="yes" Timeout="50" LockIn="no">
 
-<Title wrap="yes" >Change Queue Status</Title>
+<Title wrap="no" >Change the Queue Status</Title>
 <MenuItem>
 <Prompt>Log in to receive calls</Prompt>
 <URI>https://internal.ecal.uk/sip/queue-status/linekey3-login.xml</URI> 

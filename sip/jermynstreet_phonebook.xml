@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecalCombinedIPPhoneBook>
+	<Title>ecal directory</Title>
+	<Menu Name="Internal">
+		<Unit Name="Carbon" Phone3="" Phone2="" Phone1="006"/>
+		<Unit Name="Titanium" Phone3="" Phone2="" Phone1="022"/>
+		<Unit Name="Silver" Phone3="" Phone2="" Phone1="047"/>
+		<Unit Name="Antimony" Phone3="" Phone2="" Phone1="051"/>
+		<Unit Name="Tellurim" Phone3="" Phone2="" Phone1="052"/>
+		<Unit Name="BSR studio" Phone3="" Phone2="" Phone1="321"/>
+		<Unit Name="Edward hunt" Phone3="" Phone2="" Phone1="501"/>
+		<Unit Name="Footloose duty hunt" Phone3="" Phone2="" Phone1="503"/>
+		<Unit Name="Footloose menu" Phone3="" Phone2="" Phone1="701"/>
+		<Unit Name="BSR menu" Phone3="" Phone2="" Phone1="702"/>
+	</Menu>
+	<Menu Name="Forwarding">
+		<Unit Name="Edward" Phone3="" Phone2="" Phone1="401"/>
+		<Unit Name="Orchardside" Phone3="" Phone2="" Phone1="402"/>
+		<Unit Name="Ben Dixon" Phone3="" Phone2="" Phone1="403"/>
+		<Unit Name="James Baber" Phone3="" Phone2="" Phone1="404"/>
+		<Unit Name="Lucy Mewis-McKerrow" Phone3="" Phone2="" Phone1="405"/>
+	</Menu>
+	<Menu Name="Services">
+		<Unit Name="Police non-emergency" Phone3="" Phone2="" Phone1="101"/>
+		<Unit Name="Power cut non-emergency" Phone3="" Phone2="" Phone1="105"/>
+		<Unit Name="NHS non-emergency" Phone3="" Phone2="" Phone1="111"/>
+		<Unit Name="Music line" Phone3="" Phone2="" Phone1="603"/>
+		<Unit Name="Anti-terrorist hotline" Phone3="" Phone2="" Phone1="666"/>
+		<Unit Name="Speaking clock" Phone3="" Phone2="" Phone1="846"/>
+		<Unit Name="Emergency services" Phone3="" Phone2="" Phone1="999"/>
+	</Menu>
+</ecalCombinedIPPhoneBook>
