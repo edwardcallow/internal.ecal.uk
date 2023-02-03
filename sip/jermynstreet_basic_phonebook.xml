@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<JermynStreetTheatreIPPhoneBook>
+	<Title>Jermyn Street Theatre directory</Title>
+	<Menu Name="Internal">
+		<Unit Name="Admin" Phone3="" Phone2="" Phone1="201"/>
+		<Unit Name="Front of house" Phone3="" Phone2="" Phone1="202"/>
+		<Unit Name="Box office" Phone3="" Phone2="" Phone1="203"/>
+		<Unit Name="Penny Horner" Phone3="" Phone2="07958 305831" Phone1="301"/>
+		<Unit Name="Front of house team" Phone3="" Phone2="" Phone1="502"/>
+		<Unit Name="Senior managers" Phone3="" Phone2="" Phone1="503"/>
+		<Unit Name="Technical team" Phone3="" Phone2="" Phone1="504"/>
+		<Unit Name="First aid" Phone3="" Phone2="" Phone1="555"/>
+	</Menu>
+</JermynStreetTheatreIPPhoneBook>
