@@ -1,5 +1,5 @@
 <YealinkIPPhoneExecute Beep="no"> 
 <ExecuteItem URI="https://internal.ecal.uk/sip/status/qon.xml"/> 
-<ExecuteItem URI="Led:LINE3_GREEN=on"/> 
+<ExecuteItem URI="Led:LINE3_GREEN=fastflash"/> 
 <ExecuteItem URI="Dial:*96" interrupetCall="no"/> 
 </YealinkIPPhoneExecute> 
