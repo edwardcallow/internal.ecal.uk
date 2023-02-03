@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JermynStreetTheatreIPPhoneBook>
-	<Title>Jermyn Street Theatre directory</Title>
-	<Menu Name="Internal">
-		<Unit Name="Admin" Phone3="" Phone2="" Phone1="201"/>
-		<Unit Name="Front of house" Phone3="" Phone2="" Phone1="202"/>
-		<Unit Name="Box office" Phone3="" Phone2="" Phone1="203"/>
-		<Unit Name="Penny Horner" Phone3="" Phone2="07958 305831" Phone1="301"/>
-		<Unit Name="Front of house team" Phone3="" Phone2="" Phone1="502"/>
-		<Unit Name="Senior managers" Phone3="" Phone2="" Phone1="503"/>
-		<Unit Name="Technical team" Phone3="" Phone2="" Phone1="504"/>
-		<Unit Name="First aid" Phone3="" Phone2="" Phone1="555"/>
-	</Menu>
-	<Menu Name="External">
-		<Unit Name="Edward" Phone3="" Phone2="07790171041" Phone1="302"/>
-	</Menu>
-	<Menu Name="Services">
-		<Unit Name="Police non-emergency" Phone3="" Phone2="" Phone1="101"/>
-		<Unit Name="Power cut non-emergency" Phone3="" Phone2="" Phone1="105"/>
-		<Unit Name="NHS non-emergency" Phone3="" Phone2="" Phone1="111"/>
-		<Unit Name="Speaking clock" Phone3="" Phone2="" Phone1="846"/>
-		<Unit Name="Emergency services" Phone3="" Phone2="" Phone1="999"/>
-	</Menu>
-</JermynStreetTheatreIPPhoneBook>
+<JermynStreetTheatreIDIPPhoneDirectory>
+	<DirectoryEntry>
+		<Name>Admin</Name>
+		<Telephone>201</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Front of house</Name>
+		<Telephone>202</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Box office</Name>
+		<Telephone>203</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Penny Horner</Name>
+		<Telephone>301</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>First aiders</Name>
+		<Telephone>506</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Mental health first aiders</Name>
+		<Telephone>507</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Senior managers</Name>
+		<Telephone>514</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Front of house team</Name>
+		<Telephone>516</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Technical team</Name>
+		<Telephone>518</Telephone>
+	</DirectoryEntry>
+</JermynStreetTheatreIDIPPhoneDirectory>
