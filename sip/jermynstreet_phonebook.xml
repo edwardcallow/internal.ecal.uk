@@ -13,8 +13,60 @@
 		<Telephone>203</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
+		<Name>Control room</Name>
+		<Telephone>204</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Team office</Name>
+		<Telephone>205</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Production office</Name>
+		<Telephone>206</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Workshop</Name>
+		<Telephone>207</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Dressing room 1</Name>
+		<Telephone>208</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Dressing room 2</Name>
+		<Telephone>209</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
 		<Name>Penny Horner</Name>
 		<Telephone>301</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Stella Powell-Jones</Name>
+		<Telephone>302</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>David Doyle</Name>
+		<Telephone>303</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Lucy Mewis-McKerrow</Name>
+		<Telephone>304</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Edward Callow</Name>
+		<Telephone>305</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Darcy Dobson</Name>
+		<Telephone>306</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Gabriele Uboldi</Name>
+		<Telephone>307</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Anna Ryder</Name>
+		<Telephone>308</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>First aiders</Name>
