@@ -13,11 +13,11 @@
 		<Telephone>203</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Control room</Name>
+		<Name>Bar/Name>
 		<Telephone>204</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Team office</Name>
+		<Name>Control room</Name>
 		<Telephone>205</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -25,7 +25,7 @@
 		<Telephone>206</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Workshop</Name>
+		<Name>Team office</Name>
 		<Telephone>207</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -35,6 +35,14 @@
 	<DirectoryEntry>
 		<Name>Dressing room 2</Name>
 		<Telephone>209</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Workshop</Name>
+		<Telephone>210</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Meeting room</Name>
+		<Telephone>211</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Penny Horner</Name>
@@ -57,7 +65,7 @@
 		<Telephone>305</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Darcy Dobson</Name>
+		<Name>Natasha Ketel</Name>
 		<Telephone>306</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -65,19 +73,19 @@
 		<Telephone>307</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Anna Ryder</Name>
+		<Name>Annie Kershaw</Name>
 		<Telephone>308</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Grace Wessels</Name>
+		<Name>Alex Pearson</Name>
 		<Telephone>309</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Alex Pearson</Name>
+		<Name>Emily Richelle</Name>
 		<Telephone>310</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Emily</Name>
+		<Name>Grace Wessels</Name>
 		<Telephone>311</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
