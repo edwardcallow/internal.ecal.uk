@@ -13,7 +13,7 @@
 		<Telephone>203</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Bar/Name>
+		<Name>Bar</Name>
 		<Telephone>204</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -107,5 +107,9 @@
 	<DirectoryEntry>
 		<Name>Technical team</Name>
 		<Telephone>518</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Emergency</Name>
+		<Telephone>666</Telephone>
 	</DirectoryEntry>
 </JermynStreetTheatreIDIPPhoneDirectory>
